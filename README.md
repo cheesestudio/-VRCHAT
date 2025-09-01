@@ -1,3 +1,4 @@
+https://cheeseup.booth.pm/items/6216109  
 重构自 "神乐甜狐狸" 的对战表系统
 
 0，注意，默认的对战表只支持32个玩家名称容量，并且包括红名。
@@ -27,3 +28,6 @@
 使用“将所有权转交给 ↑↑↑上方玩家名”来改变所有者，关于如何使用这个，
 第一，你需要点击“点击开始选择转交玩家”，之后点击列表中任意一个白名，
 他/她将在你点击“将所有权转交给 ↑↑↑上方玩家名”之后变成所有者。
+
+![03b01156-8cc2-4c21-b8ca-ab9fa33d839b_base_resized](https://github.com/user-attachments/assets/c7f3a816-2821-46f6-b7f8-70af6eddc911)
+![38e7de70-4d8d-4d74-8379-a7aa832a43f6_base_resized](https://github.com/user-attachments/assets/50d91474-ae01-40a4-9e45-93e8618511a9)
