@@ -1,0 +1,1 @@
+["player01", "player02", "player03", "empty", "player04"]

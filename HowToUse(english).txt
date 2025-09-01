@@ -1,0 +1,29 @@
+0.Attention, Default Tournament Only Support 32 Capacity Player Name, Include Red Name,
+But You Can Use "Tournament_64" To Prevent Udon Errors, Also Just Support 64 Capacity Include Red Name And Larger.
+
+1.Click Player Name In 
+"Waiting Players"，
+If You Are Owner, This Player Name Will 
+Remove In "Waiting Players", 
+Add To "Joined Players"
+Add To Leftmost Diagram.
+
+2.Click Player Name In 
+"Joined Players", 
+If You Are Owner, This Player Name Will 
+Remove In "Joined Players"
+Remove In Leftmost Disgram, 
+Add To "Waiting Players".
+
+3.If "Joined Players" A Player Has Left,
+He/She Name Will Become Red Color In "Joined Players" And Leftmost Disgram,
+You Can Click This Red Name To Remove,
+Also Click "Clear Left Red" To Remove All Red Name.
+
+4."Clear Left All" Will Remove All Name In "Joined Players",
+"Clear Left Empty" Will Remove All Empty Space And Sort List In "Joined Players".
+
+5.Most Control Need Owner, You Can See "Current Owner" To Know Who's This Owner,
+And Use : "give ownership to ↑↑↑this player" To Change Owner, About How To Use This,
+First You Need Click "Click to start give ownership", After Click A White Player Name, 
+He/She Will Become A Owner On You Click "give ownership to ↑↑↑this player".
